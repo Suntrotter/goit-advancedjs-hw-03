@@ -94,3 +94,10 @@ p {
   font-weight: 600;
   line-height: 1.33;
 }
+
+.loader {
+  font-size: 16px;
+  color: #4e75ff;
+  text-align: center;
+  margin-bottom: 20px;
+}
